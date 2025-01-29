@@ -259,26 +259,23 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   WordPress Web Developer
 
-          **2018-2021**
+          **2022-2023**
 
-          * fullstack at this startup
+          *   WordPress SEO
 
-          **2015**
+          **2020-2022**
 
-          * senior front-end at this place
+          *   Shopify Developer
 
-          **2013**
+          **2019**
 
-          * intern developer at a big company
+          *   Email Marketer
 
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
