@@ -5,9 +5,9 @@ colors: colors-a
 date: '2025-01-01'
 client: Qalbe Abbas
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  I developed a visually striking website for GBH Media, highlighting their
+  creative portfolio with an intuitive layout, providing an immersive experience
+  and strengthening their online presence in the media industry.
 featuredImage:
   type: ImageBlock
   url: /images/Untitled-design-2.png.webp
