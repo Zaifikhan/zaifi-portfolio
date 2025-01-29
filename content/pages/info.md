@@ -223,7 +223,7 @@ sections:
       - type: Label
         label: ACF
       - type: Label
-        label: C++
+        label: 'html, CSS, JS, PHP'
   - type: DividerSection
     styles:
       self:
