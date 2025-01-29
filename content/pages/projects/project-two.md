@@ -11,7 +11,7 @@ description: >-
   business growth.
 featuredImage:
   type: ImageBlock
-  url: /images/Untitled-design-1.png.webp
+  url: /images/Untitled-design.png.webp
   altText: Project thumbnail image
 media:
   type: ImageBlock
