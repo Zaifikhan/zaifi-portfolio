@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Grosid - Ecommerce Agency
 colors: colors-a
 date: '2024-12-06'
-client: Awesome client
+client: Sidra Shabbir
 description: >-
   My first project, Grosid, is a WordPress eCommerce agency website featuring a
   responsive design, optimized performance, and seamless navigation. It
