@@ -13,11 +13,14 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ### I am an experienced WordPress Developer with over 4 years of expertise
+      in building responsive websites and eCommerce solutions. Specializing in
+      custom WordPress development, Shopify design, and SEO optimization, I have
+      delivered 70+ successful projects. My focus is on creating secure,
+      high-performing sites that align with client goals and drive business
+      growth.
+
     media:
       type: ImageBlock
       url: /images/about.jpg
