@@ -224,8 +224,6 @@ sections:
         label: ACF
       - type: Label
         label: C++
-      - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:
