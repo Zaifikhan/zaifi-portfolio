@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: GBH Media Production House
 colors: colors-a
 date: '2025-01-01'
 client: Qalbe Abbas
