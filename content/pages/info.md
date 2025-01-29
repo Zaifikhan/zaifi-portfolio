@@ -13,14 +13,17 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ##### I am an experienced WordPress Developer with over 4 years of
+      expertise in building responsive websites and eCommerce solutions.
+      Specializing in custom WordPress development, Shopify design, and SEO
+      optimization, I have delivered 70+ successful projects. My focus is on
+      creating secure, high-performing sites that align with client goals and
+      drive business growth.
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/file-880x1024.png.webp
       altText: Hero image
     styles:
       self:
@@ -46,6 +49,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: I'm Hafiz Huzaifa a WordPress Web Developer
   - type: DividerSection
     styles:
       self:
@@ -124,15 +128,15 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/Zaifikhan'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            label: FACEBOOK
+            url: 'https://www.facebook.com/profile.php?id=100036443873952'
         styles:
           self:
             textAlign: left
@@ -140,15 +144,15 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/hafiz-huzaifa/'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
+            label: Website
+            url: 'https://hafizhuzaifa.site/'
         styles:
           self:
             textAlign: left
@@ -164,7 +168,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/zaifikhan2004/'
         styles:
           self:
             textAlign: left
@@ -207,21 +211,19 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Custom Themes
       - type: Label
-        label: React
+        label: Elementor + Blocks Builder
       - type: Label
-        label: Microsoft Office
+        label: WooCommerce + Shopify
       - type: Label
-        label: Next.js
+        label: Advanced Functionalities
       - type: Label
-        label: Netlify
+        label: Custom Post Types
       - type: Label
-        label: Pancakes
+        label: ACF
       - type: Label
-        label: C++
-      - type: Label
-        label: Swift
+        label: 'html, CSS, JS, PHP'
   - type: DividerSection
     styles:
       self:
@@ -239,7 +241,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [hafiz4huzaifa@gmail.com](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
@@ -257,26 +259,23 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   WordPress Web Developer
 
-          **2018-2021**
+          **2022-2023**
 
-          * fullstack at this startup
+          *   WordPress SEO
 
-          **2015**
+          **2020-2022**
 
-          * senior front-end at this place
+          *   Shopify Developer
 
-          **2013**
+          **2019**
 
-          * intern developer at a big company
+          *   Email Marketer
 
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
@@ -287,18 +286,15 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2022-2024**
 
-          * ba computer sciense at a semi fancy school
+          *   ICS computer sciense at a semi fancy school
 
-          **2014**
+          **2021**
 
-          * react certificate somewhere
+          *   my highschool
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
