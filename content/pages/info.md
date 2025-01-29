@@ -217,7 +217,7 @@ sections:
       - type: Label
         label: WooCommerce + Shopify
       - type: Label
-        label: Next.js
+        label: Advanced Functionalities
       - type: Label
         label: Netlify
       - type: Label
