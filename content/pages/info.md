@@ -136,7 +136,7 @@ sections:
         actions:
           - type: Link
             label: FACEBOOK
-            url: 'https://twitter.com/'
+            url: 'https://www.facebook.com/profile.php?id=100036443873952'
         styles:
           self:
             textAlign: left
