@@ -151,7 +151,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
+            label: Website
             url: 'https://codepen.io/'
         styles:
           self:
