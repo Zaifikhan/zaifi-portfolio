@@ -5,9 +5,9 @@ colors: colors-a
 date: '2022-01-22'
 client: Omer Mubeen
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  For Delogics, I created a dynamic website showcasing their digital marketing
+  expertise, with a focus on service offerings and case studies, improving brand
+  credibility and attracting clients.
 featuredImage:
   type: ImageBlock
   url: /images/Untitled-design.png.webp
