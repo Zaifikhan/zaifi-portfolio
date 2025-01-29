@@ -221,7 +221,7 @@ sections:
       - type: Label
         label: Custom Post Types
       - type: Label
-        label: Pancakes
+        label: ACF
       - type: Label
         label: C++
       - type: Label
