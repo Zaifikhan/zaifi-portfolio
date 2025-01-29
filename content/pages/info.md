@@ -49,6 +49,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: I'm Hafiz Huzaifaa WordPress Web Developer
   - type: DividerSection
     styles:
       self:
