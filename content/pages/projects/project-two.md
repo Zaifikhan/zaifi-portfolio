@@ -5,10 +5,9 @@ colors: colors-a
 date: '2024-12-06'
 client: Sidra Shabbir
 description: >-
-  My first project, Grosid, is a WordPress eCommerce agency website featuring a
-  responsive design, optimized performance, and seamless navigation. It
-  showcases my skills in creating user-friendly online stores that drive
-  business growth.
+  I helped design and develop a user-friendly eCommerce platform for Grosid,
+  optimizing the shopping experience with seamless navigation and secure payment
+  integrations, boosting conversions and customer satisfaction.
 featuredImage:
   type: ImageBlock
   url: /images/Untitled-design.png.webp
