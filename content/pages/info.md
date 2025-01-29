@@ -213,7 +213,7 @@ sections:
       - type: Label
         label: Custom Themes
       - type: Label
-        label: React
+        label: Elementor + Blocks Builder
       - type: Label
         label: Microsoft Office
       - type: Label
