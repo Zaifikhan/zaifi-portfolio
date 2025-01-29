@@ -10,7 +10,7 @@ description: >-
   credibility and attracting clients.
 featuredImage:
   type: ImageBlock
-  url: /images/Untitled-design.png.webp
+  url: /images/Untitled-design-2.png.webp
   altText: Project thumbnail image
 media:
   type: ImageBlock
