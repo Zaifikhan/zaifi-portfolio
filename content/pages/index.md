@@ -13,10 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I'm Huzaifa, a passionate WordPress developer and digital consultant,
-      driven by a love for creating meaningful and functional online
-      experiences.
+    title: I'm Hafiz Huzaifaa WordPress Web Developer
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
