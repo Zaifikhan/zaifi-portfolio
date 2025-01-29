@@ -219,7 +219,7 @@ sections:
       - type: Label
         label: Advanced Functionalities
       - type: Label
-        label: Netlify
+        label: Custom Post Types
       - type: Label
         label: Pancakes
       - type: Label
