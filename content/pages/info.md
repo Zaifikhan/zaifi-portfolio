@@ -215,7 +215,7 @@ sections:
       - type: Label
         label: Elementor + Blocks Builder
       - type: Label
-        label: Microsoft Office
+        label: WooCommerce + Shopify
       - type: Label
         label: Next.js
       - type: Label
