@@ -135,7 +135,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
+            label: FACEBOOK
             url: 'https://twitter.com/'
         styles:
           self:
