@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Grosid - Ecommerce Agency
 colors: colors-a
-date: ''
+date: '2024-12-06'
 client: Awesome client
 description: >-
   My first project, Grosid, is a WordPress eCommerce agency website featuring a
