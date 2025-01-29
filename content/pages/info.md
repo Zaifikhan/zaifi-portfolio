@@ -14,12 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ### I am an experienced WordPress Developer with over 4 years of expertise
-      in building responsive websites and eCommerce solutions. Specializing in
-      custom WordPress development, Shopify design, and SEO optimization, I have
-      delivered 70+ successful projects. My focus is on creating secure,
-      high-performing sites that align with client goals and drive business
-      growth.
+      #### I am an experienced WordPress Developer with over 4 years of
+      expertise in building responsive websites and eCommerce solutions.
+      Specializing in custom WordPress development, Shopify design, and SEO
+      optimization, I have delivered 70+ successful projects. My focus is on
+      creating secure, high-performing sites that align with client goals and
+      drive business growth.
 
     media:
       type: ImageBlock
